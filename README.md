@@ -4,6 +4,11 @@ Skilled and experienced Cloud Engineer with 9 years of experience in designing, 
 I am seeking a challenging position as a DevOps/Cloud Engineer where I can use my skills and experience to make a significant contribution to a team. I am a highly motivated and results-oriented individual with a passion for automation on the cloud and agile methodologies. I am confident that I can make a positive impact on your organization.
 
 ## Education
+- Graduate: Analysis and Systems Development at UNIGRAN, University Center of Grande Dourados, Campo Grande-MS - Brazil - 2010,
+- Postgraduate: Information Security Management, Lato Sensu at UNIDERP, University Anhanguera, Campo Grande-MS - Brazil - 2012,
+* International Certifications:
+- EXIN - Information Security Foundation based on ISO/IEC 27001 - 2012,
+- Scrum Alliance - Certified ScrumMaster - 2018.
 
 ## Technical Skills
 
