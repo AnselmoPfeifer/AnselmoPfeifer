@@ -6,7 +6,7 @@ I am seeking a challenging position as a DevOps/Cloud Engineer where I can use m
 ## Education
 - Graduate: Analysis and Systems Development at UNIGRAN, University Center of Grande Dourados, Campo Grande-MS - Brazil - 2010,
 - Postgraduate: Information Security Management, Lato Sensu at UNIDERP, University Anhanguera, Campo Grande-MS - Brazil - 2012,
-* International Certifications:
+### International Certifications:
 - EXIN - Information Security Foundation based on ISO/IEC 27001 - 2012,
 - Scrum Alliance - Certified ScrumMaster - 2018.
 
