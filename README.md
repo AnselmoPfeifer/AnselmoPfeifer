@@ -1,5 +1,8 @@
 ## Introduction
 
+Skilled and experienced Cloud Engineer with 9 years of experience in designing, implementing, and managing complex Cloud solutions. Proven ability to lead and mentor teams, as well as work independently. Expertise in a wide range of DevOps technologies, including AWS, Kubernetes, Docker, Linux, Ansible, and Jenkins.
+I am seeking a challenging position as a DevOps/Cloud Engineer where I can use my skills and experience to make a significant contribution to a team. I am a highly motivated and results-oriented individual with a passion for automation on the cloud and agile methodologies. I am confident that I can make a positive impact on your organization.
+
 ## Education
 
 ## Technical Skills
