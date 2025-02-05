@@ -1,14 +1,16 @@
 ## Introduction
 
-Skilled and experienced Cloud Engineer with 9 years of experience in designing, implementing, and managing complex Cloud solutions. Proven ability to lead and mentor teams, as well as work independently. Expertise in a wide range of DevOps technologies, including AWS, Kubernetes, Docker, Linux, Ansible, and Jenkins.
-I am seeking a challenging position as a DevOps/Cloud Engineer where I can use my skills and experience to make a significant contribution to a team. I am a highly motivated and results-oriented individual with a passion for automation on the cloud and agile methodologies. I am confident that I can make a positive impact on your organization.
+Experienced Cloud Engineer with 14 years of expertise in designing, implementing, and managing complex cloud solutions. Demonstrated ability to lead and mentor teams, while also excelling in independent roles. Proficient in various DevOps technologies, including AWS, GCP, Azure DevOps, Terraform, Kubernetes, Docker, Linux, Ansible, and Jenkins. Skilled at delivering efficient, scalable, and secure cloud infrastructures that drive business success.
+I am seeking a DevOps/Cloud Engineer role where I can use my skills and experience to drive impactful results. As a motivated and results-driven professional with a passion for cloud automation and agile methodologies, I bring a strong commitment to delivering innovative solutions. I am confident in my ability to contribute meaningfully to your team's success and make a positive impact on the organization.
 
 ## Education
-- Graduate: Analysis and Systems Development at UNIGRAN, University Center of Grande Dourados, Campo Grande-MS - Brazil - 2010,
-- Postgraduate: Information Security Management, Lato Sensu at UNIDERP, University Anhanguera, Campo Grande-MS - Brazil - 2012,
-### International Certifications:
-- EXIN - Information Security Foundation based on ISO/IEC 27001 - 2012,
-- Scrum Alliance - Certified ScrumMaster - 2018.
+- Graduate: Analysis and Systems Development at UNIGRAN, University Center of Grande Dourados, Campo Grande-MS - Brazil - 2010
+- Postgraduate: Information Security Management, UNIDERP, University, Campo Grande-MS - Brazil - 2012
+#### International Certifications: 
+- EXIN - Information Security Foundation based on ISO/IEC 27001 - 2012
+- Scrum Alliance - Certified Scrum Master - 2018.
+- LFC108: Cybersecurity Essentials - 2023 by The Linux Foundation
+- AWS Cloud Practitioner - October 2024
 
 ## Technical Skills
 
