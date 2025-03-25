@@ -1,11 +1,13 @@
 ## Introduction
 
-Experienced Cloud Engineer with 14 years of expertise in designing, implementing, and managing complex cloud solutions. Demonstrated ability to lead and mentor teams, while also excelling in independent roles. Proficient in various DevOps technologies, including AWS, GCP, Azure DevOps, Terraform, Kubernetes, Docker, Linux, Ansible, and Jenkins. Skilled at delivering efficient, scalable, and secure cloud infrastructures that drive business success.
+Experienced Cloud Engineer with 15 years of expertise in designing, implementing, and managing complex cloud solutions. Demonstrated ability to lead and mentor teams, while also excelling in independent roles. 
+Proficient in various DevOps technologies, including AWS, GCP, Azure DevOps, Terraform, Kubernetes, Docker, Linux, Ansible, and Jenkins. Skilled at delivering efficient, scalable, and secure cloud infrastructures that drive business success. 
 I am seeking a DevOps/Cloud Engineer role where I can use my skills and experience to drive impactful results. As a motivated and results-driven professional with a passion for cloud automation and agile methodologies, I bring a strong commitment to delivering innovative solutions. I am confident in my ability to contribute meaningfully to your team's success and make a positive impact on the organization.
 
 ## Education
 - Graduate: Analysis and Systems Development at UNIGRAN, University Center of Grande Dourados - 2010
 - Postgraduate: Information Security Management, UNIDERP, University - 2012
+  
 #### International Certifications: 
 - EXIN - Information Security Foundation based on ISO/IEC 27001 - 2012
 - Scrum Alliance - Certified Scrum Master - 2018.
@@ -15,7 +17,9 @@ I am seeking a DevOps/Cloud Engineer role where I can use my skills and experien
 ## Technical Skills
 
 ## Language Skills
-
+- English: Professional working proficiency
+- Portuguese: Native
+- 
 ## Experience
 <!--
 **AnselmoPfeifer/AnselmoPfeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
