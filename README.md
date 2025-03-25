@@ -15,6 +15,18 @@ I am seeking a DevOps/Cloud Engineer role where I can use my skills and experien
 - AWS Cloud Practitioner - October 2024
 
 ## Technical Skills
+- Coding / Scripting Experience: Python, Bash, Groovy, Ruby, JavaScript. 
+- Frontend Framework: React, Angular, Next, Nuxt and Nest. 
+- Backend Framework: Java (Spring Boot), Python (Flask). 
+- Automating Deployment: Kubernetes, Openshift, Nexus, Artifactory, Sonar, GitHub Actions, Automating AWS with Lambda Python and Boto3, Azure Pipeline (DevOps), Chef-Engine, Salt-Stack, Jenkins (DSL and Pipeline Shared Library), Terraform, CloudFormation, Canary Deployments. 
+- Cloud Providers: These are the cloud services I have been working on in the last few years, in all the cases I am trying to use Infrastructure as Code.
+    - Amazon Web Service: Kubernetes (EKS), Container (ECS), Lambda Functions, API Gateway, CloudFront, DynamoDB, RDS (PostgreSQL, and MySQL), CodeBuild, CodeDeploy, Event-Driven Design (SNS, SQS, Kafka, CloudWatch events), Multi-region Infrastructure, Lambda Authorizers, WAF to create a scalable API with backward-compatible version support.
+    - Microsoft Azure: Azure Registry, GitOps, Azure DevOps Pipelines, Agile Boards, Azure Artifacts, Azure Functions, Azure App Service, Virtual Machine, Azure SQL Database. 
+    - Google Cloud Engine:  Computer Engine, Google Kubernetes Service, Cloud Functions, Cloud Storage. 
+- Monitoring tools: New Relic, Zabbix, Nagios, NagVis, Google StackDrive, AWS Cloud Watch, Grafana, Prometheus.
+- Linux administrator: Debian, Ubuntu, CentOS, and Redhat (15y)
+- Security Infrastructure: Vulnerability Analysis, Hardening Server and Network.
+- Agile Methodology: Scrum, Kanban
 
 ## Language Skills
 - English: Professional working proficiency
