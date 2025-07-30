@@ -1,32 +1,36 @@
 ## Introduction
 
-Experienced Cloud Engineer with 15 years of expertise in designing, implementing, and managing complex cloud solutions. Demonstrated ability to lead and mentor teams, while also excelling in independent roles. 
-Proficient in various DevOps technologies, including AWS, GCP, Azure DevOps, Terraform, Kubernetes, Docker, Linux, Ansible, and Jenkins. Skilled at delivering efficient, scalable, and secure cloud infrastructures that drive business success. 
-I am seeking a DevOps/Cloud Engineer role where I can use my skills and experience to drive impactful results. As a motivated and results-driven professional with a passion for cloud automation and agile methodologies, I bring a strong commitment to delivering innovative solutions. I am confident in my ability to contribute meaningfully to your team's success and make a positive impact on the organization.
+Professional with 15+ years delivering highly available, secure, and automated cloud platforms across AWS, Azure, and GCP. Expert at designing Infrastructure-as-Code (Terraform, CloudFormation) and containerized microservices (Kubernetes, Docker), paired with robust CI/CD automation (Jenkins, GitHub Actions, Azure DevOps). 
+
+Proven track record of embedding DevSecOps practices SAST, DAST (Veracode, Mend / WhiteSource, SonarQube), SBOMs, and policy-as-code—to shift security left and accelerate delivery. 
+Deep experience in observability (Prometheus, Grafana, New Relic), Linux systems administration, and configuration management (Ansible, Chef). Seeking to drive platform reliability, compliance, and continuous improvement in an SRE, DevSecOps, or Cloud Engineering leadership role.
+
 
 ## Education
-- Graduate: Analysis and Systems Development at UNIGRAN, University Center of Grande Dourados - 2010
-- Postgraduate: Information Security Management, UNIDERP, University - 2012
+- Graduate: Analysis and Systems Development at UNIGRAN, University Center of Grande Dourados, Campo Grande-MS - Brazil - 2010
+- Postgraduate: Information Security Management, UNIDERP, University, Campo Grande-MS - Brazil - 2012
   
 #### International Certifications: 
 - EXIN - Information Security Foundation based on ISO/IEC 27001 - 2012
-- Scrum Alliance - Certified Scrum Master - 2018.
-- LFC108: Cybersecurity Essentials - 2023 by The Linux Foundation
-- AWS Cloud Practitioner - October 2024
+- Scrum Alliance - Certified Scrum Master - 2018
+- Linux Foundation - LFC108: CyberSecurity Essentials - 2023 
+- Person Vue - AWS Cloud Practitioner - October 2024
 
 ## Technical Skills
-- Coding / Scripting Experience: Python, Bash, Groovy, Ruby, JavaScript. 
-- Frontend Framework: React, Angular, Next, Nuxt and Nest. 
-- Backend Framework: Java (Spring Boot), Python (Flask). 
-- Automating Deployment: Kubernetes, Openshift, Nexus, Artifactory, Sonar, GitHub Actions, Automating AWS with Lambda Python and Boto3, Azure Pipeline (DevOps), Chef-Engine, Salt-Stack, Jenkins (DSL and Pipeline Shared Library), Terraform, CloudFormation, Canary Deployments. 
-- Cloud Providers: These are the cloud services I have been working on in the last few years, in all the cases I am trying to use Infrastructure as Code.
-    - Amazon Web Service: Kubernetes (EKS), Container (ECS), Lambda Functions, API Gateway, CloudFront, DynamoDB, RDS (PostgreSQL, and MySQL), CodeBuild, CodeDeploy, Event-Driven Design (SNS, SQS, Kafka, CloudWatch events), Multi-region Infrastructure.
-    - Microsoft Azure: Azure Registry, GitOps, Azure DevOps Pipelines, Agile Boards, Azure Artifacts, Azure Functions, Azure App Service, Virtual Machine, Azure SQL Database. 
-    - Google Cloud Engine:  Computer Engine, Google Kubernetes Service, Cloud Functions, Cloud Storage. 
-- Monitoring tools: New Relic, Zabbix, Nagios, NagVis, Google StackDrive, AWS Cloud Watch, Grafana, Prometheus.
-- Linux administrator: Debian, Ubuntu, CentOS, and Redhat.
-- Security Infrastructure: Vulnerability Analysis, Hardening Server and Network.
-- Agile Methodology: Scrum, Kanban.
+- Programming & Scripting: Python, Bash, Groovy, Ruby, JavaScript
+- Frontend Framework: React, Angular, Next.js, Nuxt.js, NestJS
+- Backend Frameworks & APIs: Java (Spring Boot), Python (Flask), Node.js, RESTful API development
+- Infrastructure as Code & Deployment Automation: Terraform, CloudFormation, Kubernetes, OpenShift, Jenkins (Pipeline + DSL + Shared Libraries), GitHub Actions, Azure DevOps, Nexus, Artifactory, Canary Deployments, Ansible, Chef, SaltStack, Lambda (Python/Boto3)
+- DevSecOps & Security Automation: SAST, DAST, SBOMs, CI/CD Security Gates,
+  - Tools: Harness, Veracode, Mend (WhiteSource), SonarQube, OWASP ZAP
+  - Practices: Application security scanning, vulnerability management, server and network hardening, policy-as-code
+- Cloud Platforms (IaC-driven):
+  - AWS: EKS, ECS, Lambda, API Gateway, CloudFront, DynamoDB, RDS, SNS, SQS, CloudWatch, CodeBuild/Deploy, Multi-region Architecture
+  - Azure: Azure DevOps, GitOps, Azure Functions, App Service, Virtual Machines, SQL Database, Azure Artifacts
+  - GCP: Google Kubernetes Engine, Cloud Functions, Cloud Storage, Compute Engine
+- Monitoring & Observability: Prometheus, Grafana, New Relic, Zabbix, Nagios, AWS CloudWatch, Google Stackdriver
+- Operating Systems & Environments: Linux (Debian, Ubuntu, CentOS, Red Hat), Windows Server
+- Agile Methodologies: Scrum, Kanban, Agile Boards (Azure DevOps, Jira)
 
 ## Language Skills
 - English: Professional working proficiency
