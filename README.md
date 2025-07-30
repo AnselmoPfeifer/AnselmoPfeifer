@@ -39,7 +39,7 @@ Deep experience in observability (Prometheus, Grafana, New Relic), Linux systems
 ## Work Experience
 - Current: (Jan/25) - Canopy Software Global provider of secure and scalable software solutions. I lead initiatives to build and optimize cloud-native infrastructure and DevOps pipelines that support high-scale application delivery. I focus on infrastructure automation, container orchestration, observability, and performance optimization to ensure highly available and secure environments.
 
-* Key Achievements:*
+Key Achievements:*
 Cloud Infrastructure & Automation: Designed and managed AWS environments using Terraform, enforcing Infrastructure-as-Code principles and automating resource provisioning.
 Container Orchestration & Auto-Scaling: Deployed and maintained services on Amazon EKS with Kubernetes, integrating KEDA-based auto-scaling for responsive load handling.
 CI/CD Automation: Built and maintained deployment pipelines with GitHub Actions, enabling fast, secure, and traceable delivery processes.
