@@ -50,3 +50,16 @@ Scripting & Automation: Developed Python-based automation tools to streamline ro
 *Technologies:*
 AWS, Terraform, EKS, Kubernetes, KEDA, GitHub Actions, Elasticsearch, MongoDB, RabbitMQ, Python e Linux.
 
+---
+
+- Previous: (Jul/24 - Jan/25) - Malwarebytes Global cybersecurity company delivering advanced endpoint protection and malware prevention As a Senior DevOps Engineer, I led the design, automation, and security integration of AWS-based cloud environments supporting large-scale consumer-facing applications. I played a key role in reinforcing DevSecOps culture across infrastructure, CI/CD pipelines, and observability systems to ensure highly secure and reliable service delivery.
+*DevSecOps-Focused Achievements:*
+Infrastructure as Code & Cloud Automation: Built and managed AWS and Azure environments using Terraform and GitHub Actions, enabling consistent, version-controlled infrastructure provisioning aligned with policy-as-code practices.
+CI/CD Automation & Secure Delivery Pipelines: Developed and maintained multi-platform CI/CD pipelines using Jenkins, and GitHub Actions to automate deployment workflows for consumer applications while embedding security and quality gates.
+Monitoring, Security & Observability: Integrated cloud-native monitoring and alerting tools to improve visibility into system health and enforce compliance-driven logging and incident response procedures.
+Cross-Functional Collaboration & Production Readiness: Partnered with developers, QA, and security teams to enhance availability, enforce secure coding standards, and optimize deployment strategies; supported on-call rotations to ensure operational excellence.
+
+*Technologies:*
+AWS (ECS, EC2, Fargate), Terraform, GitHub Actions, Jenkins, Azure, Python, Linux, Monitoring/Alerting Stack (CloudWatch, custom tooling), CI/CD Security Best Practices.
+
+
