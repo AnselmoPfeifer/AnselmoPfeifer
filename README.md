@@ -36,18 +36,16 @@ Deep experience in observability (Prometheus, Grafana, New Relic), Linux systems
 - English: Professional working proficiency
 - Portuguese: Native
 - 
-## Experience
-<!--
-**AnselmoPfeifer/AnselmoPfeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work Experience
+- Current: (Jan/25) - Canopy Software Global provider of secure and scalable software solutions. I lead initiatives to build and optimize cloud-native infrastructure and DevOps pipelines that support high-scale application delivery. I focus on infrastructure automation, container orchestration, observability, and performance optimization to ensure highly available and secure environments.
 
-Here are some ideas to get you started:
+* Key Achievements:*
+Cloud Infrastructure & Automation: Designed and managed AWS environments using Terraform, enforcing Infrastructure-as-Code principles and automating resource provisioning.
+Container Orchestration & Auto-Scaling: Deployed and maintained services on Amazon EKS with Kubernetes, integrating KEDA-based auto-scaling for responsive load handling.
+CI/CD Automation: Built and maintained deployment pipelines with GitHub Actions, enabling fast, secure, and traceable delivery processes.
+Observability & Monitoring: Implemented Elasticsearch-based monitoring and logging solutions, increasing operational visibility and reducing MTTR through enhanced telemetry.
+Messaging & Data Layer Reliability: Tuned and operated MongoDB and RabbitMQ stacks for resilience and performance under heavy workloads.
+Scripting & Automation: Developed Python-based automation tools to streamline routine tasks, improve system consistency, and reduce operational toil.
+	Technologies: 
+AWS, Terraform, EKS, Kubernetes, KEDA, GitHub Actions, Elasticsearch, MongoDB, RabbitMQ, Python e Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
