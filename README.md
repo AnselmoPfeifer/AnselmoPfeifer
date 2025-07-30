@@ -109,7 +109,7 @@ AWS, Jenkins (Pipeline + Groovy DSL), Chef, Java, Mobile Build Automation, Linux
 
 ---
 
-Previous: (Mar/09 - Dec/15) Brazilian Army – 6º Center of Telematic and Command, At the Brazilian Army’s 6º Center of Telematic and Command, I served as a Linux Systems Administrator, responsible for managing critical web and database server infrastructure. I supported virtualization projects, private cloud operations, and worked closely with information security teams to ensure the hardening and protection of military systems. 
+**Previous**: (Mar/09 - Dec/15) Brazilian Army – 6º Center of Telematic and Command, At the Brazilian Army’s 6º Center of Telematic and Command, I served as a Linux Systems Administrator, responsible for managing critical web and database server infrastructure. I supported virtualization projects, private cloud operations, and worked closely with information security teams to ensure the hardening and protection of military systems. 
 
 *Key Achievements:*
 Server & Database Management: Administered Linux-based web and database servers, ensuring high availability, performance optimization, and secure configurations.
