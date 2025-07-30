@@ -50,9 +50,10 @@ Scripting & Automation: Developed Python-based automation tools to streamline ro
 *Technologies:*
 AWS, Terraform, EKS, Kubernetes, KEDA, GitHub Actions, Elasticsearch, MongoDB, RabbitMQ, Python e Linux.
 
--
+---
 
 - Previous: (Jul/24 - Jan/25) - Malwarebytes Global cybersecurity company delivering advanced endpoint protection and malware prevention As a Senior DevOps Engineer, I led the design, automation, and security integration of AWS-based cloud environments supporting large-scale consumer-facing applications. I played a key role in reinforcing DevSecOps culture across infrastructure, CI/CD pipelines, and observability systems to ensure highly secure and reliable service delivery.
+
 *DevSecOps-Focused Achievements:*
 Infrastructure as Code & Cloud Automation: Built and managed AWS and Azure environments using Terraform and GitHub Actions, enabling consistent, version-controlled infrastructure provisioning aligned with policy-as-code practices.
 CI/CD Automation & Secure Delivery Pipelines: Developed and maintained multi-platform CI/CD pipelines using Jenkins, and GitHub Actions to automate deployment workflows for consumer applications while embedding security and quality gates.
@@ -62,7 +63,7 @@ Cross-Functional Collaboration & Production Readiness: Partnered with developers
 *Technologies:*
 AWS (ECS, EC2, Fargate), Terraform, GitHub Actions, Jenkins, Azure, Python, Linux, Monitoring/Alerting Stack (CloudWatch, custom tooling), CI/CD Security Best Practices.
 
--
+---
 
 - Previous: (Ago/19 - Jul/24) -  Kuehne + Nagel | MyKN Portal Project Global leader in logistics | Operating in 100+ countries.  As a Senior DevOps Engineer member of the MyKN Portal engineering team, I led initiatives to embed security, scalability, and automation into a large-scale CMS ecosystem serving 100+ regional office portals. Focused on transforming legacy systems through DevSecOps principles, I ensured secure, high-availability infrastructure on Kubernetes (OpenShift) and AWS. 
 
@@ -77,5 +78,18 @@ Microservices Transformation: Led the decomposition of legacy monoliths into man
 *Technologies:*
 Veracode, Mend, Sonar Analysis, AWS, OpenShift/Kubernetes, Terraform, Ansible, Jenkins, Python, Groovy, Java, Selenium, Prometheus/Grafana.
 
+---
 
+- Previous: (Jun/17 - Jul/19) -  Daitan Group | Symphony Project (Silicon Valley Client), at Daitan Group, I worked as a DevOps Engineer on an international project for Symphony, a Silicon Valley-based client. I was responsible for supporting DevOps, QA automation, and cloud infrastructure initiatives, helping the team maintain scalable and reliable systems across multi-cloud environments. I also acted as a Scrum Master, facilitating Agile practices and sprint ceremonies.
+
+*Key Achievements:*
+Cloud Infrastructure Automation: Designed and maintained infrastructure on AWS and Google Cloud Platform (GCP), enabling scalable, cost-effective, and resilient cloud environments.
+Containerization & Orchestration: Developed and deployed containerized applications using Docker and Kubernetes, improving deployment efficiency and application scalability.
+CI/CD Pipeline Development: Built and managed Jenkins pipelines (including DSL scripting) to automate build, test, and deployment workflows, accelerating delivery cycles and improving quality assurance.
+Scripting & Automation: Utilized Python, Groovy, and Shell scripting to automate repetitive tasks, enhance system reliability, and support DevOps operational needs.
+Version Control & Collaboration: Managed code and infrastructure repositories using Git and GitHub, ensuring version control best practices and collaborative development processes.
+Agile Delivery & Scrum Leadership: Served as Scrum Master, facilitating sprint planning, stand-ups, and retrospectives, promoting a high-performing and collaborative Agile environment.
+
+*Technologies:*
+ AWS, GCP, Kubernetes, Docker, Jenkins (Pipeline + DSL), Python, Groovy, Shell Script, Git, GitHub, Scrum.
 
