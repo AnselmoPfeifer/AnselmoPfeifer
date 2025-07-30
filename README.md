@@ -50,7 +50,7 @@ Scripting & Automation: Developed Python-based automation tools to streamline ro
 *Technologies:*
 AWS, Terraform, EKS, Kubernetes, KEDA, GitHub Actions, Elasticsearch, MongoDB, RabbitMQ, Python e Linux.
 
----
+-
 
 - Previous: (Jul/24 - Jan/25) - Malwarebytes Global cybersecurity company delivering advanced endpoint protection and malware prevention As a Senior DevOps Engineer, I led the design, automation, and security integration of AWS-based cloud environments supporting large-scale consumer-facing applications. I played a key role in reinforcing DevSecOps culture across infrastructure, CI/CD pipelines, and observability systems to ensure highly secure and reliable service delivery.
 *DevSecOps-Focused Achievements:*
@@ -61,5 +61,21 @@ Cross-Functional Collaboration & Production Readiness: Partnered with developers
 
 *Technologies:*
 AWS (ECS, EC2, Fargate), Terraform, GitHub Actions, Jenkins, Azure, Python, Linux, Monitoring/Alerting Stack (CloudWatch, custom tooling), CI/CD Security Best Practices.
+
+-
+
+- Previous: (Ago/19 - Jul/24) -  Kuehne + Nagel | MyKN Portal Project Global leader in logistics | Operating in 100+ countries.  As a Senior DevOps Engineer member of the MyKN Portal engineering team, I led initiatives to embed security, scalability, and automation into a large-scale CMS ecosystem serving 100+ regional office portals. Focused on transforming legacy systems through DevSecOps principles, I ensured secure, high-availability infrastructure on Kubernetes (OpenShift) and AWS. 
+
+*Key Achievements:*
+Security Integration in CI/CD Pipelines: Embedded SAST (Static Application Security Testing) using Sonar Analysis and Mend into Jenkins Shared Library pipelines on OpenShift, enforcing security gates and reducing critical vulnerabilities across microservices.
+Infrastructure as Code & Cloud Governance: Spearheaded AWS cloud migration using Terraform and Ansible, enabling auditable, compliant infrastructure provisioning and reducing cloud spend through elastic scaling.
+Policy & Compliance Automation: Contributed to internal DevSecOps governance by codifying baseline security policies and standardizing image scanning and artifact storage across teams.
+Cloud Migration Leadership: Architected the migration of monolithic applications to AWS cloud using Terraform (IaC) and Ansible, reducing infrastructure costs and enabling elastic scaling for faster load handling.
+Test Automation with Secure Delivery: Developed a Selenium-based automated test pipeline, integrated into CI/CD flow, improving release confidence while aligning with secure coding and QA practices.
+Microservices Transformation: Led the decomposition of legacy monoliths into many containerized microservices, improving deployment frequency, and enabling zero-downtime updates through staged releases.
+
+*Technologies:*
+Veracode, Mend, Sonar Analysis, AWS, OpenShift/Kubernetes, Terraform, Ansible, Jenkins, Python, Groovy, Java, Selenium, Prometheus/Grafana.
+
 
 
